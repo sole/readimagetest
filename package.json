@@ -1,0 +1,14 @@
+{
+  "name": "readimagesample",
+  "version": "0.0.0",
+  "description": "testing out readimage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sole",
+  "license": "GPL3",
+  "dependencies": {
+    "readimage": "^1.0.0"
+  }
+}
