@@ -1,0 +1,1 @@
+I wanted to use [readimage](https://www.npmjs.org/package/readimage) for a [revisit](http://revisit.link) thingie but it was breaking with a "SOI not found" message, so I wondered if I was doing something wrong and decided to isolate everything
